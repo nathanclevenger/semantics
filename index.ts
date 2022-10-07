@@ -6,3 +6,4 @@ export type Statement = {
   predicate: Verb
   object: Noun
 }
+
